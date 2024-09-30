@@ -10,7 +10,7 @@ public class Gitbranch {
     }
 
     private void fv() {
-        
+        System.out.println("static fv:");
     }
     
 }
